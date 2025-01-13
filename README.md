@@ -16,7 +16,7 @@
 
 - 👨‍💻  All of my projects are available at [Portfolio Coming Soon!](#)
 
-- 📝 I regularly post my journey on [https://www.linkedin.com/in/khyati-satija-computer-science/](https://www.linkedin.com/in/khyati-satija-computer-science/)
+- 📝 I regularly post my journey on [LinkedIn](https://www.linkedin.com/in/khyati-satija-computer-science/)
 
 - 📫 How to reach me **satijakhyati2003@gmail.com**
 
