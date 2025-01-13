@@ -41,5 +41,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/KhyatiSatija/KhyatiSatija/blob/output/snake.svg)
+<img src="https://raw.githubusercontent.com/khyatisatija/khyatisatija/output/snake.svg" alt="Snake animation" />
+
 
