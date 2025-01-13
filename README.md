@@ -1,19 +1,20 @@
 <h1 align="center">Hello 🎶🌈 I' m Khyati Satija</h1>
+
 <h3 align="center">I am a versatile fullstack developer who engineers user - centric solutions</h3>
 
 
+
 ###
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=khyatisatija&label=Profile%20views&color=0e75b6&style=flat" alt="khyatisatija" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khyatisatija" alt="khyatisatija" /></a> </p>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khyatisatija&label=Profile%20views&color=0e75b6&style=flat" alt="khyatisatija" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khyatisatija" alt="khyatisatija" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [portfolio coming soon!](portfolio coming soon!)
+- 👨‍💻  All of my projects are available at [Portfolio Coming Soon!](#)
 
 - 📝 I regularly post my journey on [https://www.linkedin.com/in/khyati-satija-computer-science/](https://www.linkedin.com/in/khyati-satija-computer-science/)
 
