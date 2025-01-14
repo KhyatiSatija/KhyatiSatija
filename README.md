@@ -36,9 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khyatisatija&show_icons=true&locale=en" alt="khyatisatija" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khyatisatija&" alt="khyatisatija" /></p>
-
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/khyatisatija/khyatisatija/output/snake.svg" alt="Snake animation" />
