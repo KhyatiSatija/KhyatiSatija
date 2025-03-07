@@ -14,7 +14,7 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
-- 👨‍💻  All of my projects are available at [Portfolio Coming Soon!](#)
+- 👨‍💻  All of my projects are available at [Portfolio Coming Soon!](https://khyatisatija.huntyourtribe.com/)
 
 - 📝 I regularly post my journey on [LinkedIn](https://www.linkedin.com/in/khyati-satija-computer-science/)
 
