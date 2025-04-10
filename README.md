@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **satijakhyati2003@gmail.com**
 
-- ⚡ Fun fact **I want to be a full time content creator**
+- ⚡ Fun fact **I love content creation - check out my [Youtube Channel](https://www.youtube.com/@KhyatiSatija)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
