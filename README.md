@@ -13,8 +13,9 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+- ❤️ Check out my [Portfolio Website](https://portfolio-khyati-satija.web.app/)
 
-- 👨‍💻  Some of my projects are available at [my portfolio](https://khyatisatija.huntyourtribe.com/) 😅
+- 👨‍💻  Some info about me is also available at [this website](https://khyatisatija.huntyourtribe.com/) 😅
 
 - 📝 I regularly post my journey on [LinkedIn](https://www.linkedin.com/in/khyati-satija-computer-science/)
 
